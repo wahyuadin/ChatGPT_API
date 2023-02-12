@@ -29,6 +29,6 @@ Sesudah menginstall file node_modules, silahkan extract file ```node_modules.zip
 
 **Run**
 ```bash
-$ node index.js
+$ php -S localhost:8080
 ```
 
